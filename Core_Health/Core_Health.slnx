@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Core_Health.Abstractions/Core_Health.Abstractions.csproj" Id="73a807e1-c96b-486f-97c6-0939ca0578df" />
+  <Project Path="Core_Health.Console/Core_Health.Presentation.Console.csproj" />
+  <Project Path="Core_Health.Domain/Core_Health.Domain.csproj" />
+  <Project Path="Core_Health.Simulation/Core_Health.Simulation.csproj" Id="4bf53c4d-44dc-4784-9dfe-befe734bfa7c" />
+</Solution>
