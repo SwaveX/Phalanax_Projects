@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="AI_WatcherThread.Observers/AI_WatcherThread.Observers.csproj" />
   <Project Path="AI_WatcherThread.Runtime/AI_WatcherThread.Runtime.csproj" />
+  <Project Path="AI_WatcherThread.Simulation/AI_WatcherThread.Simulation.csproj" Id="64c808ea-26e8-425f-b3f9-6c0dffecf7d7" />
 </Solution>
