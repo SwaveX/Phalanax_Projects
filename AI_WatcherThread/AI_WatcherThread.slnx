@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="AI_WatcherThread.Observers/AI_WatcherThread.Observers.csproj" />
+  <Project Path="AI_WatcherThread.Runtime/AI_WatcherThread.Runtime.csproj" />
+  <Project Path="AI_WatcherThread.Simulation/AI_WatcherThread.Simulation.csproj" />
+</Solution>
