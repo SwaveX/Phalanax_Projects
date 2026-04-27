@@ -2,6 +2,7 @@
 
 public class Health
 {
+    // public event Action<int, int>? OnHealthChanged; // Using Action instead of EventHandler
     public event EventHandler<HealthChangedEventArgs> OnHealthChanged;
     public event EventHandler? OnDeath;
     public event EventHandler? OnResurrection;
