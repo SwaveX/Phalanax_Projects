@@ -2,7 +2,13 @@
 
   <ItemGroup>
     <ProjectReference Include="..\AI_WatcherThread.Runtime\AI_WatcherThread.Runtime.csproj" />
-    <ProjectReference Include="..\..\Core_Health\Core_Health.Domain\Core_Health.Domain.csproj" />
+	<ProjectReference Include="C:\Users\AdEn\source\repos\PhalanaxProjects\Core_Health\Core_Health.Domain" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Core_Health.Domain">
+      <HintPath>..\..\Core_Health\Core_Health.Domain\bin\Debug\net10.0\Core_Health.Domain.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
   <PropertyGroup>

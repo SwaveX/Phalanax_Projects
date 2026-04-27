@@ -5,9 +5,9 @@ namespace AI_WatcherThread.Observers;
     
 public class HealthChangedObserver
 {
-    private readonly AI_WatcherThread _runtime;
+    private readonly AIWatcherRuntime _runtime;
 
-    public HealthChangedObserver(AI_WatcherThread runtime)
+    public HealthChangedObserver(AIWatcherRuntime runtime)
     {
         _runtime = runtime;
     }

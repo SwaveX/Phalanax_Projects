@@ -16,7 +16,7 @@ public class ResurrectionObserver
     {
         health.OnResurrection += (_, _) =>
         {
-            _runtime.EnqueAction( () =>
+            _runtime.EnqueueAction( () =>
             {
                 Console.WriteLine("Entity has resurrected!");
             });
